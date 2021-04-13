@@ -1,0 +1,9 @@
+.navbar{
+    height: 80px;
+    background-color: white;
+    border: none;
+}
+.image > img {
+    height: 48rem;
+    margin-bottom: 50px;
+}
